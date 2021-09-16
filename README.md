@@ -4,6 +4,7 @@ Semakin jauh player bergerak, maka semakin besar skor yang akan didapatkan.
 
 Control : 
 - left button 
+
 Added Feature : 
 - tampilan awal menu 
 - start button 
